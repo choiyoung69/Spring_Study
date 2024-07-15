@@ -1,5 +1,8 @@
 package orderingExample.core;
 
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
 import orderingExample.core.Order.Order;
 import orderingExample.core.Order.OrderService;
 import orderingExample.core.Order.OrderServiceImpl;
@@ -10,6 +13,7 @@ import orderingExample.core.member.MemberServiceImpl;
 
 public class OrderApp {
     public static void main(String[] args) {
+<<<<<<< HEAD
         AppConfig appConfig = new AppConfig();
 
         MemberService memberService = appConfig.memberService();
@@ -17,6 +21,12 @@ public class OrderApp {
 
         //MemberService memberService = new MemberServiceImpl();
         //OrderService orderService = new OrderServiceImpl();
+=======
+
+        ApplicationContext ac = new AnnotationConfigApplicationContext(AppConfig.class);
+        MemberService memberService = ac.getBean("memberService", MemberService.class);
+        OrderService orderService = ac.getBean("orderService", OrderService.class);
+>>>>>>> 2b206b599fb4d194eed7ed6861ca7c85171aa53f
 
         Long memberId = 1L;
         Member member = new Member(memberId, "memberA", Grade.VIP);

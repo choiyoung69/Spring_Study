@@ -14,13 +14,20 @@ import org.junit.jupiter.api.Test;
 public class MemberServiceTest {
 
     MemberService memberService;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2b206b599fb4d194eed7ed6861ca7c85171aa53f
     @BeforeEach
     public void beforeEach(){
         AppConfig appConfig = new AppConfig();
         memberService = appConfig.memberService();
     }
+<<<<<<< HEAD
     //emberService memberService = new MemberServiceImpl();
+=======
+
+>>>>>>> 2b206b599fb4d194eed7ed6861ca7c85171aa53f
     @Test
     void join(){
         //given

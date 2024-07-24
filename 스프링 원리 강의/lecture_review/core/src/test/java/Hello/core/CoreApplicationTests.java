@@ -1,4 +1,4 @@
-package Hello.core;
+package test.java.Hello.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

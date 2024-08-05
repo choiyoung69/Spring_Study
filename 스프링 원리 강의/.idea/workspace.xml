@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb8cb5a9-8cb7-4b08-bff7-91a6d87839ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/AutoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/resources/appConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Filter/BeanA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Filter/BeanB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Filter/ComponentFilterAppConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Filter/MyexcludeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Filter/MyincludeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Scan/AutoAppConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Singleton/ConfigurationSingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Singleton/SingleTonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Singleton/SingletonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Singleton/StatefulService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/Singleton/StatefulServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/XML/XmlAppContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/beandefinition/BeanDefinitionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/beanfind/ApplicationContextBasicFindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/beanfind/ApplicationContextExtendsFindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/beanfind/ApplicationContextSameBeanFindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/test/java/orderingExample/core/beanfind/ApplicationContextinfoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/CoreApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/MyincludeComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/Order/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/Order/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/discount/RateDiscoutPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/discount/RateDiscoutPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/member/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/member/MemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/member/MemoryMemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/orderingExample/core/member/MemoryMemberRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/core">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/core">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2gXIXVcQixCKBXuew2ZqhlM8ys3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/seoyoung/Spring_Study/스프링 원리 강의&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="orderingExample.core.Singleton" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="orderingExample.core.Filter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.AutoAppConfigTest.basicScan">
+    <configuration name="AutoAppConfigTest.basicScan" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/core" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;orderingExample.core.Scan.AutoAppConfigTest.basicScan&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="ComponentFilterAppConfigTest.filterScan" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/core" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;orderingExample.core.Filter.ComponentFilterAppConfigTest.filterScan&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigurationSingletonTest.configurationDeep" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/core" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;orderingExample.core.Singleton.ConfigurationSingletonTest.configurationDeep&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigurationSingletonTest.configurationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/core" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;orderingExample.core.Singleton.ConfigurationSingletonTest.configurationTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="StatefulServiceTest.statefulSerivceSingleton" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/core" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;orderingExample.core.Singleton.StatefulServiceTest.statefulSerivceSingleton&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AutoAppConfigTest.basicScan" />
+        <item itemvalue="Gradle.ComponentFilterAppConfigTest.filterScan" />
+        <item itemvalue="Gradle.ConfigurationSingletonTest.configurationTest" />
+        <item itemvalue="Gradle.ConfigurationSingletonTest.configurationDeep" />
+        <item itemvalue="Gradle.StatefulServiceTest.statefulSerivceSingleton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb8cb5a9-8cb7-4b08-bff7-91a6d87839ab" name="Changes" comment="" />
+      <created>1715837536382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715837536382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/core/src/main/java/orderingExample/core/OrderApp.java</url>
+          <line>14</line>
+          <properties class="orderingExample.core.OrderApp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

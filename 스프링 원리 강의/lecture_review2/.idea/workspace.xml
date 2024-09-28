@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f922a8a7-bafa-49cf-8f9f-f92b52bd94ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/common/MyLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/web/LogDemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/web/LogDemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture_review/core/src/test/java/Hello/core/lifecycle/BeanLifeCycleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture_review/core/src/test/java/Hello/core/lifecycle/NetworkClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture_review/core/src/test/java/Hello/core/scope/PrototypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture_review/core/src/test/java/Hello/core/scope/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lecture_review/core/src/test/java/Hello/core/scope/SingletonWithPrototypeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/Annotation/MainDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/AutoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/MemberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/Order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/Order/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/Order/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/OrderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/common/MyLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/discount/DiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/discount/FixDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/discount/RateDiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/lifecycle/NetworkClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/member/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/member/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/member/MemberServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/lecture_review/start/member/MemoryMemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/web/LogDemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/java/web/LogDemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/main/resources/appConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/Autowired/AllBeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/BeanDefinition/BeanDefinitionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/Order/OrderServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/beanfind/ApplicationContextBasicFindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/beanfind/ApplicationContextExtendsFindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/beanfind/ApplicationContextInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/beanfind/ApplicationContextSameBeanFindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/discount/RateDiscountPolicyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/lifecycle/BeanLifeCycleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/member/MemberServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/prototype/PrototypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/prototype/singletonClientUsePrototypeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/scan/AutoAppConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/scan/filter/BeanA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/scan/filter/BeanB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/scan/filter/ComponentFIlterAppCOnfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/scan/filter/MyExcludeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/scan/filter/MyIncludeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/singleton/ConfigurationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/singleton/SingleTonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/singleton/SingletonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/singleton/StatefulService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/singleton/StatefulServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/src/test/java/lecture_review/start/xml/XMLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/AOP/TimeTraceAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/Configuration/SpringConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/Repository/JdbcTemplateMemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/Repository/JpaMemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/Repository/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/Repository/MemoryMemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/Repository/SpringDataJpaMemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/Repository/jdbcMemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/Service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/controller/MemberForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/java/review/sprint_start/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/resources/static/hello-static.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/resources/templates/hello-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/resources/templates/members/createMemberForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/main/resources/templates/members/memberList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/test/java/review/sprint_start/repositoryTest/MemoryMemberRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/test/java/review/sprint_start/serviceTest/MemberServiceIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../스프링 입문 강의/복습/sprint-start/src/test/java/review/sprint_start/serviceTest/serviceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture_review/.idea/lecture_review.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture_review/.idea/lecture_review.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture_review/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture_review/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture_review/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture_review/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture_review/core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture_review/core/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/member/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/member/MemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/member/MemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/member/MemoryMemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture_review/core/src/main/java/Hello/core/member/MemoryMemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture_review/core/src/test/java/Hello/core/singleton/ConfigurationSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture_review/core/src/test/java/Hello/core/singleton/ConfigurationSingletonTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2m2azAAhQbC1MwjzGMWrQ8awoGg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build lecture_review2.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.StartApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;seoyoung&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/seoyoung/Spring_Study/스프링 원리 강의/lecture_review2/start&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="StartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="start.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lecture_review.start.StartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f922a8a7-bafa-49cf-8f9f-f92b52bd94ef" name="Changes" comment="" />
+      <created>1726277385083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726277385083</updated>
+      <workItem from="1726277386041" duration="1937000" />
+      <workItem from="1727266316200" duration="47000" />
+      <workItem from="1727266374171" duration="35000" />
+      <workItem from="1727266420167" duration="112000" />
+      <workItem from="1727366495864" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

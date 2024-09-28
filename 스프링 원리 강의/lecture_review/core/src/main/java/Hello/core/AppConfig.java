@@ -21,6 +21,7 @@ public class AppConfig {
         System.out.println("AppConfig.memberService");
         return new MemberServiceImpl(memberRepository());
     }
+
     @Bean
     public MemoryMemberRepository memberRepository() {
         System.out.println("AppConfig.memberRepository");

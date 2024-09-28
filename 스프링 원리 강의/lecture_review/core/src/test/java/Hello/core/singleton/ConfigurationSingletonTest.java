@@ -6,6 +6,7 @@ import Hello.core.Order.OrderServiceImpl;
 import Hello.core.member.MemberRepository;
 import Hello.core.member.MemberService;
 import Hello.core.member.MemberServiceImpl;
+import Hello.core.member.MemoryMemberRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

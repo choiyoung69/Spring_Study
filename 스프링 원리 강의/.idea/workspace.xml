@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="cb8cb5a9-8cb7-4b08-bff7-91a6d87839ab" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../스프링 mvc1/servlet/src/main/webapp/jsp/members/new-form.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../스프링 mvc1/servlet/src/main/webapp/jsp/members/save.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../스프링 mvc1/servlet/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../스프링 mvc1/servlet/build.gradle" afterDir="false" />
     </list>
+=======
+    <list default="true" id="cb8cb5a9-8cb7-4b08-bff7-91a6d87839ab" name="Changes" comment="" />
+>>>>>>> e67b0efa362fe76219c1998119929acba45b5f01
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,7 +228,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715837536382</updated>
+<<<<<<< HEAD
       <workItem from="1730259956560" duration="6000" />
+=======
+      <workItem from="1730256204180" duration="7000" />
+>>>>>>> e67b0efa362fe76219c1998119929acba45b5f01
     </task>
     <servers />
   </component>

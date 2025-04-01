@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="737c06d5-4fb2-44a5-a62d-b7207540839e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../exception/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/ExceptionApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/api/ApiExceptionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/api/ApiExceptionV2Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/api/ApiExceptionV3Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/exception/BadRequestException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/exception/UserException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/exhandler/ErrorResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/exhandler/advice/ExControllerAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/filter/LogFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/interceptor/LogInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/resolver/MyHandlerExceptionResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/resolver/UserHandlerExceptionResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/servlet/ErrorPageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/servlet/ServletController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/java/hello/exception/servlet/WebServerCustomizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/resources/templates/error-page/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/resources/templates/error-page/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/resources/templates/error/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/resources/templates/error/4xx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/main/resources/templates/error/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/test/java/hello/exception/ExceptionApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/java/hello/itemservice/ItemServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/java/hello/itemservice/domain/item/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/java/hello/itemservice/domain/item/ItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/java/hello/itemservice/web/basic/BasicItemController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/static/html/addForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/static/html/editForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/static/html/item.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/static/html/items.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/templates/basic/addForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/templates/basic/editForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/templates/basic/item.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/main/resources/templates/basic/items.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/test/java/hello/itemservice/ItemServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../item-service/src/test/java/hello/itemservice/domain/item/ItemRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/java/hello/thymeleaf/ThymeleafBasicApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/java/hello/thymeleaf/basic/BasicController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/java/hello/thymeleaf/basic/TemplateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/attribute.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/basic-objects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/block.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/condition.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/each.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/javascript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/literal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/operation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/text-basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/text-unescaped.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/basic/variable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/fragment/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/fragment/fragmentMain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/layout/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/layout/layoutMain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/layoutExtend/layoutExtendMain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/main/resources/templates/template/layoutExtend/layoutFile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thymeleaf-basic/src/test/java/hello/thymeleaf/ThymeleafBasicApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "choiyoung69"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:choiyoung69/Spring_Study.git",
+    "accountId": "533a0bab-6704-4357-943f-d92d9fc13432"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2v6XzAijc5Or7dOTFNg9OXzz1me" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build message.executor": "Run",
+    "JUnit.MessageSourceTest.executor": "Run",
+    "JUnit.MessageSourceTest.helloMessage.executor": "Run",
+    "JUnit.MessageSourceTest.notFoundMessageCode.executor": "Run",
+    "JUnit.MessageSourceTest.notFoundMessageCodeDefaultMessage.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.ItemServiceApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/seoyeong/develop/Spring_Study/스프링 mvc2/message/build.gradle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.MessageSourceTest.helloMessage">
+    <configuration name="MessageSourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="message.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.itemservice.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.itemservice.message" />
+      <option name="MAIN_CLASS_NAME" value="hello.itemservice.message.MessageSourceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageSourceTest.helloMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="message.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.itemservice.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.itemservice.message" />
+      <option name="MAIN_CLASS_NAME" value="hello.itemservice.message.MessageSourceTest" />
+      <option name="METHOD_NAME" value="helloMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageSourceTest.notFoundMessageCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="message.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.itemservice.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.itemservice.message" />
+      <option name="MAIN_CLASS_NAME" value="hello.itemservice.message.MessageSourceTest" />
+      <option name="METHOD_NAME" value="notFoundMessageCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageSourceTest.notFoundMessageCodeDefaultMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="message.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.itemservice.message.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.itemservice.message" />
+      <option name="MAIN_CLASS_NAME" value="hello.itemservice.message.MessageSourceTest" />
+      <option name="METHOD_NAME" value="notFoundMessageCodeDefaultMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="message.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.itemservice.ItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MessageSourceTest.helloMessage" />
+        <item itemvalue="JUnit.MessageSourceTest.notFoundMessageCodeDefaultMessage" />
+        <item itemvalue="JUnit.MessageSourceTest" />
+        <item itemvalue="JUnit.MessageSourceTest.notFoundMessageCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="737c06d5-4fb2-44a5-a62d-b7207540839e" name="Changes" comment="" />
+      <created>1743466756223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743466756223</updated>
+      <workItem from="1743466757271" duration="4486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

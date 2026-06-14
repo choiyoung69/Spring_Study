@@ -2,6 +2,7 @@ package com.woowa.study.discount;
 
 import com.woowa.study.member.Grade;
 import com.woowa.study.member.Member;
+import org.springframework.stereotype.Component;
 
 public class RateDiscountPolicy implements DiscountPolicy {
 
